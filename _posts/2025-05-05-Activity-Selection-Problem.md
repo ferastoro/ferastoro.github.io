@@ -4,8 +4,7 @@ date: 2025-05-06
 categories: [GREEDY ALGORITHM]
 tags: [daa]
 ---
-![Desktop View](/assets/K1.png){: width="500"}
-_---_
+
 
 Masalah Pemilihan Aktivitas (Activity Selection Problem) adalah masalah optimasi yang melibatkan pemilihan sejumlah aktivitas dengan waktu mulai dan selesai tertentu, agar tidak saling tumpang tindih, dan jumlah aktivitas yang dipilih maksimal. Tantangan ini muncul saat sumber daya terbatas, seperti satu ruangan atau prosesor, hanya dapat menangani satu aktivitas dalam satu waktu. Solusinya menggunakan algoritma greedy dengan memilih aktivitas yang selesai paling awal untuk memberi ruang bagi aktivitas lain. Masalah ini sering diterapkan dalam penjadwalan, manajemen proyek, dan pengelolaan waktu.
 
