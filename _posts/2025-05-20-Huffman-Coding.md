@@ -5,8 +5,7 @@ categories: [GREEDY ALGORITHM]
 tags: [daa]    
 ---
 
-![Desktop View](/assets/K3.png){: width="500"}
-_---_
+
 
 Huffman Coding adalah algoritma kompresi data lossless yang efisien dan banyak digunakan sejak dikembangkan pada tahun 1952. Algoritma ini memberi kode biner yang lebih pendek untuk karakter yang sering muncul dan kode lebih panjang untuk karakter yang jarang muncul, sehingga ukuran data dapat dikompresi secara signifikan. Huffman Coding menjadi dasar berbagai format kompresi populer seperti ZIP, JPEG, dan MP3.
 

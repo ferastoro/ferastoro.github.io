@@ -5,9 +5,6 @@ categories: [BACKTRACKING ALGORITHM]
 tags: [daa]
 ---
 
-![SUBSET SUM PROBLEM](/assets/K5.png){: width="500"}
-
-_---_
 
 # Penjelasan tentang Subset Sum Problem
 

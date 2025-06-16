@@ -4,7 +4,6 @@ date: 2025-05-05
 categories: [ GREEDY ALGORITHM]
 tags: [daa]
 ---
-![Desktop View](/assets/K2.png){: width="500"}
 
 ## Definisi
 

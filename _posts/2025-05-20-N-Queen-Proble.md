@@ -5,8 +5,7 @@ categories: [BACKTRACKING ALGORITHM]
 tags: [daa]     
 ---
 
-![N-Queen Problem](/assets/K4.png){: width="500"}
-_---_
+
 
 # Penjelasan tentang N-Queen Problem
 

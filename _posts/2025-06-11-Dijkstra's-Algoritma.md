@@ -5,11 +5,6 @@ categories: [GRAPH]
 tags: [daa]
 ---
 
-
-
-
-![Dijkstra's Algorithm Illustration](/assets/K10.jpeg){: width="500"}
-
 ## Prinsip Dasar Dijkstra's Algorithm
 
 Proses utama dari Dijkstra's Algorithm adalah sebagai berikut:

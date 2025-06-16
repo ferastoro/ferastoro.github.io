@@ -5,7 +5,6 @@ categories: [GRAPH]
 tags: [daa]
 ---
 
-![Khan's Algorithm Illustration](assets/K9.jpeg){: width="500"}
 
 ## Prinsip Dasar Khan's Algorithm
 

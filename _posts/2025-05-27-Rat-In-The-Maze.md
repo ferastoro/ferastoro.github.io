@@ -6,8 +6,6 @@ tags: [daa, backtracking]
 ---
 
 
-![Rat in the Maze](assets/K6.jpeg){: width="500"}
-_---_
 
 # Penjelasan tentang Rat in the Maze Problem
 
